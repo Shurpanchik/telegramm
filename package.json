@@ -8,7 +8,7 @@
     "start":"node app.js"
   },
   "dependencies": {
-    "bot-brother": "2.1.x"
+    "bot-brother": "2.1.5"
   },
   "author": "",
   "license": "ISC"
